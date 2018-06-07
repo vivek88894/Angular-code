@@ -1,0 +1,31 @@
+.course{
+    float: left;
+    width:200px;
+    height:350px;
+    background-color: rgb(252,252,232);
+    box-shadow:5 px 5px 5px rgb(250, 250, 250);
+    margin:20px;
+}
+.cpic{
+    width:100%;
+    height:20%;
+}
+.cpic img{
+    width:100%;
+    height: 100%;
+}
+h3{
+    color: rgb(10,10,77);
+    text-align: center;
+    font-family: Arial;
+}
+h4{
+    color:darkred;
+    text-align: center;
+    font-family: Courier New, Courier, monospace;
+}
+h5{
+    color:lightslategray;
+    font-family: agency FB;
+    text-align: justify;
+}

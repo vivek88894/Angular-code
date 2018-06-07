@@ -1,0 +1,23 @@
+.review{
+    width:85%;
+    height:150px;
+    margin:10px;
+    border-left:3px solid darkgreen;
+background-color :rgb(98,213,248);
+color:white;
+padding:5px;
+}
+p{
+    font-family: arial;
+    font-size:16px;
+    color:darkblue;
+}
+h3{
+    font-family: Agency FB;
+    color:rgb(167,122,17);
+}
+h5{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    color:darkred;
+}
